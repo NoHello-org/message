@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+body > section.page-header {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+// Button
+body > section.page-header > a {
+    width: fit-content;
+    align-self: center;
+}
