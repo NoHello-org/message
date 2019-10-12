@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: "Hey there,"
-description: "Please don't start a conversation with just "Hi" or something similar. Instead, add what you need into your first message." 
-show_downloads: "false"
-google_analytics: "UA-149848596-1"
+title: Hey there,
+description: Please don't start a conversation with just "Hi" or something similar. Instead, add what you need into your first message.
+show_downloads: false
+google_analytics: UA-149848596-1
