@@ -10,7 +10,9 @@ body {
 }
 
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
-    display: block
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
 }
 
 audio,canvas,progress,video {
